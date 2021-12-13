@@ -1,5 +1,5 @@
 const scoreScrabble = function(str) {
-    const sepLetters = scoreScrabble.split(' ');
+    const sepLetters = scoreScrabble.split('');
     console.log(sepLetters);
     
 
